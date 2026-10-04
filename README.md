@@ -10,7 +10,6 @@ After becoming Champion, return to the **Route 5 Day Care** to receive a special
 - Uses the existing Route 5 Pokémon Day Care
 - Manaphy can breed with Ditto to produce Phione
 - Manaphy Egg can only be received once
-- Fits into normal postgame progression without replacing an existing legendary
 
 ## Screenshots
 
